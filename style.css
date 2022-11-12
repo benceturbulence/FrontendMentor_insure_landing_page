@@ -359,6 +359,10 @@ color: var(--dark-violet);
     display: block;
 }
 
+footer li a {
+    color: var(--very-dark-violet);
+}
+
 #menu-toggle:checked ~ label .hamburger-container {
     display: none;
 }
